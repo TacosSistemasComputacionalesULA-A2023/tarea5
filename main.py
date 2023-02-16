@@ -2,7 +2,6 @@ import gym
 import time
 import gym_taco_environments
 from agent import MonteCarlo
-import argparse
 
 
 def train(env, agent, episodes):
